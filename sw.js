@@ -1,7 +1,7 @@
 /* 321健康新生活 — 离线快取 Service Worker
    更新 App 后，把下面的版本号改一下（例如 v17 → v18），
    使用者重新开启时就会自动下载最新版。 */
-const CACHE = '321health-v22';
+const CACHE = '321health-v23';
 const ASSETS = ['./', './index.html'];
 
 // 安装：预先快取首页
